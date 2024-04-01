@@ -1,0 +1,47 @@
+---
+title: "Karl Gantner"
+color1: "#5A59A3"
+image: "karl.jpg"
+links:
+  - label: Contact
+    url: "mailto:karl@karlgantner.com"
+  - label: Blog
+    url: "https://karlgantner.substack.com"
+  - label: Twitter
+    url: "https://twitter.com/KarlGantner/"
+
+output:
+  postcards::trestles
+---
+
+## Who am I?
+
+I write science & speculative fiction featuring realistic worldbuilding, complex characters, and exhilarating plots that leave you fascinated...and a bit *unsettled*.
+
+Connect with me on Twitter/X, read my blog at Substack, or reach out via email.
+
+## Published Fiction
+
+*Killing a Tiger* \| Originally published in [Analog Science Fiction Magazine](https://www.analogsf.com/), 2022
+
+Do we have reason to fear alien life? A starship captain has to decide weather to allow an unknown probe to leave the solar system and reveal humanity's presence, or to destroy it
+
+-   Short story
+-   Fermi paradox
+-   Inspired by Ernest Hemingway's short fiction
+
+*The Species Mill* \| [Buy Here](https://www.amazon.com/Species-Mill-Karl-Gantner/dp/1797653032)
+
+A novella about a historian reconstructing the past to discover a tragic flaw in human rationality.
+
+-   Amazon best seller
+-   Relativistic time dilation
+-   Brains over brawn
+
+*Our Lady of Perpetual Change* \| [Free to read]()
+
+A neuroscientist-turned-priest returns to his old discipline after he is blessed by epiphany. But the further his pursues it, the more his church changes around him.
+
+-   Horror
+-   Materialism and religion
+-   Short story
